@@ -21,9 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="68db529e-0b8c-4cf8-85b9-0eacf73d4c26" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/DB.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/DB.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,6 +159,7 @@
       <workItem from="1538765283098" duration="1115000" />
       <workItem from="1538864252987" duration="12956000" />
       <workItem from="1599151552999" duration="5189000" />
+      <workItem from="1599158661897" duration="1102000" />
     </task>
     <servers />
   </component>
@@ -178,6 +176,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1398" height="197" key="GridCell.Tab.0.bottom" timestamp="1599158545436">
@@ -264,15 +263,15 @@
       <screen x="1440" y="-93" width="1920" height="1080" />
     </state>
     <state x="1909" y="86" key="SettingsEditor/0.0.1440.900/1440.-93.1920.1080@1440.-93.1920.1080" timestamp="1599153628553" />
-    <state x="500" y="246" width="568" height="490" key="find.popup" timestamp="1599158110750">
+    <state x="500" y="246" width="568" height="490" key="find.popup" timestamp="1599160469746">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="2107" y="202" width="586" height="490" key="find.popup/0.0.1440.900/1440.-93.1920.1080@1440.-93.1920.1080" timestamp="1599151677781" />
-    <state x="500" y="246" width="568" height="490" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1599158110750" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1599158292376">
+    <state x="500" y="246" width="568" height="490" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1599160469746" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1599160039512">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1599158292376" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1599160039512" />
   </component>
   <component name="masterDetails">
     <states>
