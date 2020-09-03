@@ -1,3 +1,7 @@
+1. Update mysql connections in `DB.js`
+2. To run on local; `npm install` then `npm start` - runs on localhost:3000
+
+
 # tasks-mysql-nodejs-app
 tasks web application using nodejs with expressjs framework and MySQL database
 
