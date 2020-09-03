@@ -1,9 +1,9 @@
 const mysql = require("mysql")
 const localDB = {
     host: 'localhost',
-    user: 'root',
-    password: '',
-    database: 'hyf-1'
+    user: 'admin',
+    password: 'password',
+    database: 'node'
 }
 let db
 if (process.env.JAWSDB_URL)
