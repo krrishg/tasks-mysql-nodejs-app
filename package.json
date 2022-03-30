@@ -12,9 +12,7 @@
     "parcel:watch": "parcel watch public/app.js --no-cache",
     "uglify": "uglifyjs --compress --mangle -c -- public/dist/app.js --source-map --output output.js"
   },
-  {
-    "default": "dist/server/public/js/index.js"
-  },
+  "default": "dist/server/public/js/index.js",
   "dependencies": {
     "cookie-parser": "~1.4.3",
     "datatables": "^1.10.18",
